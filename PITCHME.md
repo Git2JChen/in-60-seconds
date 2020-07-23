@@ -24,7 +24,7 @@
 ![IMAGE](assets/img/conference.png)
 @snapend
 
----?code=src/csharp/altchoicecontroller.cs&lang=csharp zoom-03
+---?code=src/csharp/altchoicecontroller.cs&lang=csharp
 
 @snap[north-east span-100 text-pink text-06]
 Let our code do the talking!
