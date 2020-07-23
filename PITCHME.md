@@ -24,7 +24,7 @@
 ![IMAGE](assets/img/conference.png)
 @snapend
 
----?code=src/csharp/altchoicecontroller.cs&lang=csharp zoom-08
+---?code=src/csharp/altchoicecontroller.cs&lang=csharp zoom-03
 
 @snap[north-east span-100 text-pink text-06]
 Let our code do the talking!
@@ -32,10 +32,10 @@ Let our code do the talking!
 
 @snap[south span-100 text-gray text-08]
 @[1-4](Authorize - providing authorization; ApiController - get default behaviours; Route - avoid using [controller] with strong coupling to class name)
-@[6-11, zoom-12](Injecting ICrmAltChoiceCreateService as dependency)
-@[13-14, zoom-12](HttpPost - creat; Return IActionResult with Http Status Code)
-@[22-29, zoom-12](Calling service to create alternative offer)
-@[31-38, zoom-12](Retuns response to caller depending on status)
+@[6-11, zoom-08](Injecting ICrmAltChoiceCreateService as dependency)
+@[13-14, zoom-08](HttpPost - creat; Return IActionResult with Http Status Code)
+@[22-29, zoom-08](Calling service to create alternative offer)
+@[31-38, zoom-08](Retuns response to caller depending on status)
 @snapend
 
 
