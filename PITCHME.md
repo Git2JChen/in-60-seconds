@@ -30,6 +30,10 @@
 Let our code do the talking!
 @snapend
 
+@snap[east span-50]
+![IMAGE](assets/img/web-api/altchoicecontroller.png)
+@snapend
+
 @snap[south span-100 text-gray text-08]
 @[1-4](Authorize - providing authorization; ApiController - get default behaviours; Route - avoid using [controller] with strong coupling to class name)
 @[6-11, zoom-08](Injecting ICrmAltChoiceCreateService as dependency)
