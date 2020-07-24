@@ -55,7 +55,7 @@
 ---
 
 @snap[north-west span-50 text-center]
-#### Challenges with monolithic architecture
+#### Challenges with Monolithic Architecture
 @snapend
 
 @snap[west span-55]
@@ -69,16 +69,38 @@
 @ulend
 @snapend
 
-@snap[north-east span-45]
+@snap[east span-45]
 ![IMAGE](assets/img/web-api/challenges-of-monolithic-1.png)
 @snapend
 
 ---
 
-#### Monolithic arckitecture vs Microservice
+#### Monolithic Architecture vs Microservice
 
 ![IMAGE](assets/img/web-api/Monolithic-app-vs-Microservices-1.png)
 
+---
+
+@snap[north-west span-50 text-center]
+#### Microservice Feature/Advantages
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-06]
+- Decoupling
+- Componentization
+- Business Capabilities
+- Autonomy
+- Continous Delivery
+- Responsibility
+- Decentralized Governance
+- Agility
+@ulend
+@snapend
+
+@snap[east span-45]
+![IMAGE](assets/img/web-api/Microservices-Features-1.png)
+@snapend
 
 ---
 
