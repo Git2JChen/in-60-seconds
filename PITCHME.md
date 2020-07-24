@@ -33,6 +33,8 @@
 @ul[list-spaced-bullets text-06]
 - As per Wikipedia's Definition of API: In computer programming, an application programming interface (API) is a set of subroutine definitions, protocols, and tools for building software and applications.
 - Web Api: a Web API is an API (application programming interface) for either a web server or a web browser.
+- Microservice: an architecture using API, an example of Service-Oriented Architecture, or SOA
+- Broad speaking: Web API vs Microservice interchangeably
 @ulend
 @snapend
 
@@ -53,7 +55,7 @@
 ---
 
 @snap[north-west span-50 text-center]
-#### Challenges with monolithic application
+#### Challenges with monolithic architecture
 @snapend
 
 @snap[west span-55]
@@ -68,8 +70,14 @@
 @snapend
 
 @snap[north-east span-45]
-![IMAGE](assets/img/web-api/why-question-mark-2.jpg)
+![IMAGE](assets/img/web-api/challenges-of-monolithic-1.png)
 @snapend
+
+---
+
+#### Monolithic arckitecture vs Microservice
+
+![IMAGE](assets/img/web-api/Monolithic-app-vs-Microservices-1.png)
 
 
 ---
