@@ -168,7 +168,7 @@ Let look into code fragments!
 @snapend
 
 @snap[east span-50]
-@ul[list-spaced-bullets text-06]
+@ul[list-spaced-bullets text-08]
 - Refactor the Integration Tests out of Web Api
 - Implement Integration Tests Independently
 - Hook up DevOps Pipleline
