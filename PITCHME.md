@@ -162,9 +162,9 @@ Let look into code fragments!
 @snapend
 
 
----?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+---?image=assets/img/code.jpg&opacity=60&position=left&size=40% 60%
 
-@snap[north-east span-40 text-center]
+@snap[north-east span-60 text-center]
 ### Where to Get Codes?
 @snapend
 
