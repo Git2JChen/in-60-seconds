@@ -41,8 +41,14 @@
 @snapend
 
 @snap[south-east span-45]
-![IMAGE](assets/img/web-api/web-api-1.jpg)
+![IMAGE](assets/img/web-api/web-api-1.png)
 @snapend
+
+---
+
+#### Why Web API?
+
+![IMAGE](assets/img/web-api/why-question-mark.png)
 
 ---
 
