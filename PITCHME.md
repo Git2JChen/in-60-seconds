@@ -104,21 +104,21 @@
 
 ---
 
-@snap[east span-20]
+@snap[east span-30]
 #### Web API on CRM Overall Architectural Structure
 @snapend
 
-@snap[west span-80]
+@snap[west span-70]
 ![IMAGE](assets/img/web-api/Web-Appi-Architectural-Structure-1.png)
 @snapend
 
 ---
 
-@snap[east span-20]
+@snap[east span-30]
 #### Web API More Detailed Architecture Structure
 @snapend
 
-@snap[west span-80]
+@snap[west span-70]
 ![IMAGE](assets/img/web-api/web-api-architectural-structure-2.png)
 @snapend
 
