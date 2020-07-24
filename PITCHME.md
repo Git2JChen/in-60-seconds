@@ -122,6 +122,13 @@
 ![IMAGE](assets/img/web-api/web-api-architectural-structure-2.png)
 @snapend
 
+
+---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+
+@snap[east span-50 text-center]
+## Now Let's **dive** the Codes
+@snapend
+
 ---
 
 @snap[east span-20]
@@ -151,6 +158,5 @@ Let look into code fragments!
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
-## Now Let's **Run** the Codes
+## Now Let's See the **Real** Things
 @snapend
-
