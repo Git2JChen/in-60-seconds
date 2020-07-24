@@ -162,13 +162,13 @@ Let look into code fragments!
 @snapend
 
 
----?image=assets/img/code.jpg&opacity=60&position=left&size=40% 60%
+---
 
-@snap[north-east span-60 text-center]
+@snap[north-east span-100 text-center]
 ### Where to Get Codes?
 @snapend
 
-@snap[east span-60]
+@snap[east span-100]
 @ul[list-spaced-bullets text-06]
 - https://uosdit.visualstudio.com/Data%20Management/_git/DataManagement
 - You may request access to DevOps - Carl or myself
