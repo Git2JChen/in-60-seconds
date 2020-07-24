@@ -169,7 +169,7 @@ Let look into code fragments!
 @snapend
 
 @snap[east span-100]
-@ul[list-spaced-bullets text-06]
+@ul[list-spaced-bullets text-08]
 - https://uosdit.visualstudio.com/Data%20Management/_git/DataManagement
 - You may request access to DevOps - Carl or myself
 @ulend
