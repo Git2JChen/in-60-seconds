@@ -126,7 +126,7 @@
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
 @snap[east span-50 text-center]
-## Now Let's **dive** the Codes
+## Now Let's **dive** into the Codes
 @snapend
 
 ---
@@ -160,3 +160,12 @@ Let look into code fragments!
 @snap[east span-50 text-center]
 ## Now Let's See the **Real** Things
 @snapend
+
+
+---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+
+@snap[east span-50 text-center]
+### Where to See this Slide Online?
+#### https://gitpitch.com/Git2JChen/in-60-seconds#/
+@snapend
+
