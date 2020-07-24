@@ -161,6 +161,20 @@ Let look into code fragments!
 ## Now Let's See the **Real** Things
 @snapend
 
+
+---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+
+@snap[north-east span-50 text-center]
+### Where to Get Codes?
+@snapend
+
+@snap[east span-50]
+@ul[list-spaced-bullets text-08]
+- https://uosdit.visualstudio.com/Data%20Management/_git/DataManagement
+- You may request access to DevOps - Carl or myself
+@ulend
+@snapend
+
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
 @snap[north-east span-50 text-center]
