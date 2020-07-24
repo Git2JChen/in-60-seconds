@@ -26,11 +26,11 @@
 
 ---
 
-@snap[north-west span-50 text-center]
+@snap[east span-20]
 #### A typical Web Api Controller code structure
 @snapend
 
-@snap[west span-100]
+@snap[west span-80]
 ![IMAGE](assets/img/web-api/altchoicecontroller.png)
 @snapend
 
