@@ -24,10 +24,20 @@
 ![IMAGE](assets/img/conference.png)
 @snapend
 
+---
+
+@snap[north-west span-50 text-center]
+#### A typical Web Api Controller code structure
+@snapend
+
+@snap[west span-100]
+![IMAGE](assets/img/web-api/altchoicecontroller.png)
+@snapend
+
 ---?code=src/csharp/altchoicecontroller.cs&lang=csharp
 
 @snap[north-east span-100 text-pink text-06]
-Let our code do the talking!
+Let look into code fragments!
 @snapend
 
 @snap[south span-100 text-gray text-08]
