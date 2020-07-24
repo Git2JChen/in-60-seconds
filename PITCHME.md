@@ -25,6 +25,26 @@
 @snapend
 
 ---
+@snap[north-west span-50 text-center]
+#### What's API?
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-06]
+- As per Wikipedia's Definition of API: In computer programming, an application programming interface (API) is a set of subroutine definitions, protocols, and tools for building software and applications.
+- Web Api: a Web API is an API (application programming interface) for either a web server or a web browser.
+@ulend
+@snapend
+
+@snap[north-east span-45]
+![IMAGE](assets/img/web-api/api-1.jpg)
+@snapend
+
+@snap[south-east span-45]
+![IMAGE](assets/img/web-api/web-api-1.jpg)
+@snapend
+
+---
 
 @snap[east span-20]
 #### A typical Web Api Controller code structure
