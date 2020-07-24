@@ -161,6 +161,19 @@ Let look into code fragments!
 ## Now Let's See the **Real** Things
 @snapend
 
+---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
+
+@snap[north-east span-50 text-center]
+### What's Next?
+@snapend
+
+@snap[east span-50]
+@ul[list-spaced-bullets text-06]
+- Refactor the Integration Tests out of Web Api
+- Implement Integration Tests Independently
+- Hook up DevOps Pipleline
+@ulend
+@snapend
 
 ---?image=assets/img/code.jpg&opacity=60&position=left&size=45% 100%
 
