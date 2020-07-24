@@ -24,15 +24,13 @@
 ![IMAGE](assets/img/conference.png)
 @snapend
 
----?code=src/csharp/altchoicecontroller.cs&lang=csharp
+---
 
 @snap[north-east span-100 text-pink text-06]
 Let our code do the talking!
 @snapend
 
-@snap[east span-50]
-![IMAGE](assets/img/web-api/altchoicecontroller.png)
-@snapend
+@code[c# zoom-05](src/csharp/altchoicecontroller.cs)
 
 @snap[south span-100 text-gray text-08]
 @[1-4](Authorize - providing authorization; ApiController - get default behaviours; Route - avoid using [controller] with strong coupling to class name)

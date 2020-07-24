@@ -43,6 +43,11 @@ logo-position : top-left
 layout : center
 
 #
+# Code Setting
+#
+code-line-numbers : true
+
+#
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
