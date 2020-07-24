@@ -48,7 +48,29 @@
 
 #### Why Web API?
 
-![IMAGE](assets/img/web-api/why-question-mark.png)
+![IMAGE](assets/img/web-api/why-question-mark-2.jpg)
+
+---
+
+@snap[north-west span-50 text-center]
+#### Challenges with monolithic application
+@snapend
+
+@snap[west span-55]
+@ul[list-spaced-bullets text-06]
+- Inflexible
+- Unreliable
+- Unscalable
+- Blocks Continuous Development
+- Slow Development
+- Not Fit for Complex Applications 
+@ulend
+@snapend
+
+@snap[north-east span-45]
+![IMAGE](assets/img/web-api/why-question-mark-2.jpg)
+@snapend
+
 
 ---
 
@@ -59,6 +81,7 @@
 @snap[west span-80]
 ![IMAGE](assets/img/web-api/altchoicecontroller.png)
 @snapend
+
 
 ---?code=src/csharp/altchoicecontroller.cs&lang=csharp
 
